@@ -1,0 +1,7 @@
+D:\test\.NET\CalculatorEventHandlingApp\bin\Debug\CalculatorEventHandlingApp.exe.config
+D:\test\.NET\CalculatorEventHandlingApp\bin\Debug\CalculatorEventHandlingApp.exe
+D:\test\.NET\CalculatorEventHandlingApp\bin\Debug\CalculatorEventHandlingApp.pdb
+D:\test\.NET\CalculatorEventHandlingApp\obj\Debug\CalculatorEventHandlingApp.csproj.AssemblyReference.cache
+D:\test\.NET\CalculatorEventHandlingApp\obj\Debug\CalculatorEventHandlingApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\CalculatorEventHandlingApp\obj\Debug\CalculatorEventHandlingApp.exe
+D:\test\.NET\CalculatorEventHandlingApp\obj\Debug\CalculatorEventHandlingApp.pdb
